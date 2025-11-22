@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **superfurry-tech/superfurry-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hola.
+
+Soy un estudiante de **Desarrollo de Aplicaciones Web**.
+Estoy empezando con **Java**.
+Uso **IntelliJ**, **Visual Code** y **PSeint**.
+
+Bienvenido a mi perfil.
