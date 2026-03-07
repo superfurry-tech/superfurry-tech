@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Hola.
 
 Soy un estudiante de **Desarrollo de Aplicaciones Web**.
-Estoy empezando con **Java** (con IntelliJ) y **html** (con Visual Code)
-He usado **PSeint** y estoy empezando también con MySQL
+Estoy empezando con **Java** (IntelliJ), **html** y con **MySQL** (Visual Code). También he usado **PSeint**.
 
 Bienvenido a mi perfil.
