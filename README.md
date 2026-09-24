@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Hola.
 
 Soy un estudiante de **Desarrollo de Aplicaciones Web** en el colegio Liceo La Paz, de La Coruña.
-En el primer curso hemos visto con **Java** (IntelliJ), **HTML/CSS** y **MySQL** (ambos Visual Code). También he usado **PSeint** y **Eclipse**.
+
+En el primer curso hemos visto **Java** (IntelliJ), **HTML/CSS** y **MySQL** (ambos Visual Code). También he usado **PSeint** y **Eclipse**.
 
 Bienvenido a mi perfil.
