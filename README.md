@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 Bienvenido a mi perfil de GitHub. Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** enfocado en la construcción y administración de aplicaciones web full-stack.
 
----
 
 ## 📚 Estudiando 2º de DAW (Desarrollo de Aplicaciones Web)
 
