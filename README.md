@@ -22,6 +22,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de **Desarrollo de Aplicacio
 ---
 
 ## 📚 Estudiando 2º de DAW (Desarrollo de Aplicaciones Web)
+
 Ampliando conocimientos para aprender a construir y desplegar aplicaciones web sencillas:
 - **Servidor (Back-End):** Creación de aplicaciones y APIs básicas con **PHP** y **Java**, conectándolas a bases de datos **MySQL/MariaDB**.
 - **Cliente (Front-End):** Desarrollo de interfaces dinámicas e interactivas con **JavaScript**, **HTML5** y **CSS3** (Flexbox/Grid).
@@ -32,5 +33,6 @@ Ampliando conocimientos para aprender a construir y desplegar aplicaciones web s
 ---
 
 ## 🚀 Proyectos destacados
+
 - **[ListApp / Lista_compra](https://github.com/superfurry-tech/lista-compra)** — Web App ligera (PWA) de lista de la compra compartida en tiempo real con arquitectura multi-familia. Desarrollada con **PHP**, **MariaDB** y **JavaScript**, y desplegada en servidor propio LAMP mediante **Cloudflare Tunnel** (HTTPS).
   
