@@ -30,7 +30,6 @@ Ampliando conocimientos para aprender a construir y desplegar aplicaciones web s
 - **Diseño Web:** Maquetación adaptativa (*responsive*) e introducción a diseño UX/UI.
 - **Entorno de trabajo habitual:** Visual Studio Code, IntelliJ y Linux.
 
----
 
 ## 🚀 Proyectos destacados
 
