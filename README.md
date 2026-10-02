@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# ¡Hola! Soy Francisco Puñal 👋
+
+Bienvenido a mi perfil de GitHub. Estudiante de **Desarrollo de Aplicaciones Web (DAW)** enfocado en el aprendizaje de tecnologías web full-stack y administración de servidores.
+
 ## 📚 Estudiando 2º de DAW (Desarrollo de Aplicaciones Web)
 
 Ampliando conocimientos para aprender a construir y desplegar aplicaciones web sencillas:
@@ -23,9 +27,7 @@ Ampliando conocimientos para aprender a construir y desplegar aplicaciones web s
 - **Cliente (Front-End):** Desarrollo de interfaces dinámicas e interactivas con **JavaScript**, **HTML5** y **CSS3** (Flexbox/Grid).
 - **Servidores y Despliegue:** Configuración básica de entornos **LAMP (Apache)**, uso de **Git/GitHub** y conceptos iniciales de despliegue y servidores.
 - **Diseño Web:** Maquetación adaptativa (*responsive*) e introducción a diseño UX/UI.
-- **Entorno de trabajo habitual:** Visual Studio Code, Intellij y Linux.
-
-### 🚀 Proyectos destacados
+- **Entorno de trabajo habitual:** Visual Studio Code, IntelliJ y Linux.
+- 
+## 🚀 Proyectos destacados
 - **[ListApp / Lista_compra](https://github.com/superfurry-tech/lista-compra)** — Web App ligera (PWA) de lista de la compra compartida en tiempo real con arquitectura multi-familia. Desarrollada con **PHP**, **MariaDB** y **JavaScript**, y desplegada en servidor propio LAMP mediante **Cloudflare Tunnel** (HTTPS).
-
-Bienvenido a mi perfil.
